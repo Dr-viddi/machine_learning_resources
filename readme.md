@@ -1,23 +1,23 @@
-## About this project
+# About this project
 Do you want to become a Data scientist or ML engineer? Maybe the following resources will help you
 
-## Books
-# NLP
+# Books
+### NLP
 * Eisenstein - Natural Language Processing
 * Goldberg - Neural Network Methods for Natural Language Processing
 * Kamath, Liu, Whitaker - Deep Learning for NLP and Speech Recognition
 * Tunstall - Natural language processing with transformers
-# CV
+### CV
 * Bischop - pattern recognition and machine learning
-# RL
+### RL
 * Lapan - Deep Reinforcement Learning Hands-On
 * Sutton, Barto - Reinforcement Learning: An Introduction
 * Sutton - Reinforcement Learning
-# Recommender systems
+### Recommender systems
 * Aggarwal - Recommender Systems: The Textbook
-# Time series
+### Time series
 * Nielsen - Practical time series analysis
-# GeneraL
+### GeneraL
 * Banachewicz, Massaron - The Kaggle Book
 * Banachewicz, Massaron - The Kaggle Workbook
 * Chollet - Deep Learning with Python
@@ -36,13 +36,13 @@ Do you want to become a Data scientist or ML engineer? Maybe the following resou
 * Stamile - Graph Machine Learning 
 * Stevens, Antiga, Viehmann - Deep Learning with PyTorch: Build, train, and tune neural networks using Python tools
 * Zhang - Dive into Deep Learning
-# Data science
+### Data science
 * Witten, Hastie - An Introduction to Statistical Learning
 * Hastie, Tibshirani, Friedman - The Elements of Statistical Learning
 * Kelleher, Tierney - Data Science
-# Math
+### Math
 * Nielsen - Mathematics for machine learning
-# Architecture, design, and deployment
+### Architecture, design, and deployment
 * Ameisen - Building Machine Learning Powered Applications
 * Deza - Practical MLOps
 * Huyen - Designing Machine Learning Systems
@@ -52,24 +52,24 @@ Do you want to become a Data scientist or ML engineer? Maybe the following resou
 * Tung - TensorFlow 2 Pocket Reference
 * Reis, Housley - Fundamentals of Data Engineering
 
-## Job interviews
+# Job interviews
 * System Design Interview
 
-## Repos
+# Repos
 * https://github.com/dair-ai
 * https://github.com/rasbt
 * https://github.com/eugeneyan/applied-ml
 
-## Courses and Lectures
+# Courses and Lectures
 * Andrew Ng - CS229 Lecture Notes
 * https://huggingface.co/course/chapter1/1
-# Pytorch
+### Pytorch
 
-## Practical guides
+# Practical guides
 * https://arxiv.org/abs/2108.02497
 * https://github.com/google-research/tuning_playbook
 
-## blogs and newsletter
+# blogs and newsletter
 * https://www.deeplearning.ai/the-batch/
 * https://thesequence.substack.com/
 * https://newsletter.theaiedge.io/
@@ -85,76 +85,76 @@ Do you want to become a Data scientist or ML engineer? Maybe the following resou
 * https://mailchi.mp/2fb3aa308ad3/welcome-to-synced-global-ai-weekly-newsletter
 * https://cohere.io/blog
 
-## Paper sources
+# Paper sources
 * https://paperswithcode.com/
 * https://distill.pub/
 * https://arxiv.org/
 
-## Websites
+# Websites
 * https://machinelearningmastery.com/
 * https://towardsdatascience.com/
 
-## Challenges and competitions
+# Challenges and competitions
 * https://mlcontests.com/state-of-competitive-machine-learning-2022/
 * https://www.kaggle.com/competitions
 * https://huggingface.co/competitions
 * https://datadrivenscience.com/
 
-## Environments
+# Environments
 * https://colab.research.google.com/
 
-## People to follow on Linkedin and Twitter
+# People to follow on Linkedin and Twitter
 * Sebastian Raschka
 * Cassie Kozyrkov
 * Jay Alammar
 * Aleska Gordic
 * Bojan Tunguz
 
-## Conferences and meetups
+# Conferences and meetups
 * https://www.meetup.com/de-DE/AI-Paper-Discussion-Group-ML-KA/events/
 
-## Websites/companies
+# Websites/companies
 * https://huggingface.co/
 * https://cohere.ai/
 
-## Hubs and spaces
+# Hubs and spaces
 * https://tfhub.dev/
 * https://huggingface.co/spaces
 * https://huggingface.co/models
 * https://aihub.cloud.google.com/
 
-## Datasets
+# Datasets
 
-## Tools and libraries
-#  data manipulation and analysis
+# Tools and libraries
+###  data manipulation and analysis
 * Pandas
-# Math / scientific computing
+### Math / scientific computing
 * NumPy
 * JAX
-# Machine Learning
+### Machine Learning
 * Scikit-Learn
-# Deep Learning
+### Deep Learning
 * PyTorch
 * PyTorch Geometric
 * Tensorflow
-# Computer Vision
+### Computer Vision
 * OpenCV
-# NLP
+### NLP
 * NLTK
-# Visualization
+### Visualization
 * Matplotlib
 * Seaborn
-# Lifecycle
+### Lifecycle
 * TFX
 * Mlflow
 * Kubeflow
-# Models
+### Models
 * HuggingFace
 
-## Frameworks:
+# Frameworks:
 * https://github.com/CarperAI/trlx
 
-## Youtube
+# Youtube
 * https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg
 * https://www.youtube.com/@sentdex
 
